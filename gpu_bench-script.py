@@ -2,7 +2,6 @@ import itertools
 import os
 import time
 
-import matplotlib.pylab as plt
 import numpy as np
 
 import tensorflow as tf
